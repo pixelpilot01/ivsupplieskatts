@@ -1,3 +1,5 @@
+## Mostly for NEW orders, not refills.
+
 ## Calculations
 
 The IV Supply Calculator performs the following calculations:
