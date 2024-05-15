@@ -83,7 +83,7 @@ function calculateSupplies() {
 // Display the results
 const resultContainer = document.getElementById('result');
 resultContainer.innerHTML = `
-  <h4 class="result-heading">Calculation Results</h4>
+  <h4 class="result-heading">Supplies</h4>
   <p>Total IV Tubing: ${totalIVTubing}</p>
   <p>Total Saline Flushes (ml): ${totalSalineFlushes}</p>
   <p>Total IV Dressing Change Kits: ${ivDressingChangeKits}</p>
